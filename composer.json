@@ -1,5 +1,5 @@
 {
-  "name": "hillel/yuriygeo",
+  "name": "yuraodessa/yuriygeo",
   "autoload": {
     "psr-4": {
       "Yuriy\\Geo\\": "./src"
