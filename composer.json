@@ -1,0 +1,9 @@
+{
+  "name": "hillel/yuriygeo",
+  "autoload": {
+    "psr-4": {
+      "Yuriy\\Geo\\": "./src"
+    }
+  }
+
+}
