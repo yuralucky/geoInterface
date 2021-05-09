@@ -4,6 +4,6 @@
     "psr-4": {
       "Yuriy\\Geo\\": "./src"
     }
-  }
-
+  },
+  "description": "Interface geo service"
 }
